@@ -6,9 +6,9 @@
 
 ![Home page](https://github.com/chanceDira/Street-Food-Kigali/blob/develop/virtual/celoHome.png)
 
-![Home page](https:/github.com/chanceDira/Street-Food-Kigali/blob/develop/virtual/celoHome1.png)
+![Home page](https://github.com/chanceDira/Street-Food-Kigali/blob/develop/virtual/celoHome1.png)
 
-![Home page](https:/github.com/chanceDira/Street-Food-Kigali/blob/develop/virtual/celoHome2.png)
+![Home page](https://github.com/chanceDira/Street-Food-Kigali/blob/develop/virtual/celoHome2.png)
 
 https://chancedira.github.io/Street-Food-Kigali/
 
